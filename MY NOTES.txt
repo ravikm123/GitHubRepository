@@ -1,0 +1,49 @@
+.LOG
+10:53 AM 11/18/2015
+
+
+4700037089   - OLD PO# 4700031646  - Divya  A542010 
+
+
+4700037088  ---OLD PO # 4700031654 - Karthika A540957
+
+
+4700037057   _---OLD PO # 4700035036 - SourabhaP  A042233
+
+
+ WBS - Divya/Karthika - 470-02509-0501-050773 -share 100%
+
+WBS - Sourbha - 	470-02414-9374-060991 - share 100%
+
+
+===============
+
+http://itgtcollab.target.com/sites/PlanningPortfolio15/Shared%20Documents/Forms/AllItems.aspx
+
+
+
+2:43 PM 11/18/2015
+
+
+
+C:\Drivers
+4:20 PM 11/26/2015
+
+===============================
+
+RBU :item are treated as individual item and do not have pre planned sales end date
+can be created using planogram too.
+
+RTD: item are grouped into category level(n number items),sales pattern is defined using profile application
+
+
+
+<a onmousedown="return rwt(this,'','','','6','AFQjCNG0l4NC_Rls4vtRgDkPoYl1H5FG4A','','0ahUKEwj9xe-BnbDJAhXIRSYKHX1GD8EQFgg3MAU','','',event)" href="http://www.seleniumhq.org/">Selenium - Web Browser Automation</a>
+2:12 PM 11/30/2015
+
+
+------------------
+
+
+9008603187 / 9741536890 - Sri varu vaastu
+
